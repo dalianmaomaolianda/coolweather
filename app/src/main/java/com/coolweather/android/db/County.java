@@ -16,6 +16,7 @@ public class County extends DataSupport{
         return id;
     }
 
+
     public void setId( int id){
         this.id = id;
     }
